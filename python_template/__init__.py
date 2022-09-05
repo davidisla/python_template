@@ -1,1 +1,1 @@
-from core.core import simple_func
+from python_template.core import simple_func
