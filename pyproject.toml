@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "pyfizzbuzz"
+name = "pythonTemplate"
 version = "0.1.0"
-description = "Kata FizzBuzz with Python"
-authors = ["David Isla <d.isla@ibermatica.com>"]
+description = "Python template for Katas"
+authors = []
 readme = "README.md"
 
 [tool.poetry.dependencies]
